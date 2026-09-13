@@ -1,0 +1,14 @@
+# Binaries
+*.exe
+
+# Environment variables
+.env
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
